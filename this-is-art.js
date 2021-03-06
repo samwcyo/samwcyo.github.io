@@ -50,5 +50,5 @@ window.addEventListener('load', function () {
     document.getElementsByTagName("head")[0].appendChild(script);
 })();
 
-}
+});
 
